@@ -65,4 +65,4 @@ while off == -1:
          mass = choose.find('масса')
          lenth = choose.find('длина')
          help_ = choose.find('помощь')
-         off = choose.find('off')
+         off = choose.find('offf')
